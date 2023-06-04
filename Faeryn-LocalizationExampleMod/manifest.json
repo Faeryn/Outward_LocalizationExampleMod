@@ -4,7 +4,7 @@
     "website_url": "",
     "description": "Mod that can be used as an example for localizing other mods.",
     "dependencies": [
-        "Faeryn-LocalizationExtension-1.1.1",
+        "Faeryn-LocalizationExtension-1.1.2",
         "Avrixel-Primordial_Series_Frozen_Vanguard-1.3.1"
     ]
 }
